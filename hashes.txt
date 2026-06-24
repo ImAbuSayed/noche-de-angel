@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche de ángel
+
+This log tracks the cryptographic history and versioning for the song **Noche de ángel** (noche-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T13:46:45.181455 | `v1` | `6a0eb875894ba01e6d2da03379d8f2b8af3fe947c70be4b5be1d64ac7c9b5c2c` | `3599646a7e80c33f8ea34c0063fbf0aef91a663e7722e7cf7bb970ee26f34b4b` | `2026-06-24_noche-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
