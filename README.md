@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Noche de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-angel/) |
+| **Get License** | [Get a Licensing Quote for Noche de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche de ángel, brillando en la oscuridad
+> Tú tienes ese fuego que me quita la paz
+> Sube al coche, nos vamos de la ciudad
+> Perdidos en el humo, no miramos atrás
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
